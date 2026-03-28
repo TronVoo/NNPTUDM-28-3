@@ -1,0 +1,11 @@
+//user
+//reservation
+//method:COD,zalo,....
+//transactionID
+//currency
+//status:"pending","paid","failured","refunded",
+//providerResponse:MIX
+//pendingAt
+//PaidAt
+//FailuredAt
+//RefundAt
